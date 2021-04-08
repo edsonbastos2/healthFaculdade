@@ -1,0 +1,21 @@
+.clientes-infos span{
+    vertical-align: middle;
+    color: #626264;
+}
+.clientes-infos span.mdi-star{
+    color: #facd5d;
+}
+
+.clientes-infos text{
+    font-size: 13px;
+    margin-right: 10px;
+    vertical-align: middle;
+    color: #626264;
+}
+
+.card-all img{
+    display: block;
+    border: 1px solid #626264;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
